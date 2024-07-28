@@ -22,9 +22,12 @@ A web application to visualize various sorting algorithms: Bubble Sort, Insertio
     ```
 2. Navigate to the project directory:
     ```bash
-    cd Sorting_Algorithm_Visualizer__bubble-insertion-selection-merge-quick
+    cd in "src"
     ```
-3. Open `index.html` in your browser.
+3. run
+   ```bash
+    yarn dev
+   ```
 
 ## Usage
 - Select a sorting algorithm from the dropdown menu.
