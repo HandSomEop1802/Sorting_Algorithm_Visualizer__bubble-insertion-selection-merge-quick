@@ -1,2 +1,7 @@
-# HandSomEop1802/Sorting_Algorithm_Visualizer__bubble-insertion-selection-merge-quick
- 
+# Sorting Visualizer
+
+- Bubble Sort
+- Selection Sort
+- Quick Sort
+- Insertion Sort
+- Merge Sort
